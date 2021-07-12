@@ -1,0 +1,6 @@
+1 1 John 051 844768 Friends
+2 1 Paul 056 7789456 None
+3 1 Sarah 051 675343 Family
+4 0 Mark 049 4325673 None
+5 1 Peter 051 789654 Friends
+6 1 Jane 043 212345 Family
